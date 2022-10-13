@@ -28,7 +28,7 @@
 ## 🤝 Connect with me
 <a href="https://www.instagram.com/karan_gupta__3d2y/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35px">
-</a> __morningstar_03 <br>
+</a> karan_gupta__3d2y <br>
 <a href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me">
 <img src="https://user-images.githubusercontent.com/68557696/149622003-e6fa233e-125b-4a77-a26d-1a27b053a3c2.png" width="35px">
 </a> Karan#2450 <br>
